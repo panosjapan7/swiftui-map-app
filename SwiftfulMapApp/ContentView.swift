@@ -3,7 +3,6 @@
 //  SwiftfulMapApp
 //
 //  Created by Panagiotis Tsapanidis on 2023-08-28.
-//
 
 import SwiftUI
 
